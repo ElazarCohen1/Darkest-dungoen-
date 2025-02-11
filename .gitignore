@@ -1,0 +1,9 @@
+# Ignorer les dossiers spécifiques
+/font/
+/image/
+/latex/
+/rapport/
+/html/
+
+# Ignorer tous les fichiers PDF
+*.pdf
