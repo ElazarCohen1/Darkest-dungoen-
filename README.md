@@ -6,8 +6,6 @@ Ce projet est une réplique du jeu **Darkest Dungeon**, avec une partie graphiqu
 ## Structure du Projet
 Le projet est organisé comme suit :
 
-
-
 ```
 /               # Racine du projet
 |-- ascii.c     # Gestion des caractères ASCII pour l'affichage
