@@ -1,8 +1,5 @@
 #ifndef __SAUVEGARDE_H__
 #define __SAUVEGARDE_H__
-
-
-
 /**
  * @brief sauvergarde dans le fichier les informations du joueur
  * 
@@ -35,6 +32,7 @@ void ecrireAccD(List acc_dispo,FILE*fichier);
  * @param fichier le fichier dans lequel on ecrit
  */
 void ecrireAccR(ListD_circ acc_roulotte,FILE* fichier);
+
 
 /**
  * @brief ecrit dans le fichier les informations d'un personnage
