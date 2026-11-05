@@ -9,3 +9,5 @@ rgb_image_vestal = image_vestal.convert("RGB")  # Convert to RGB for JPG
 rgb_image_vestal.save(output_path_vestal, format="JPEG")
 
 output_path_vestal
+
+
