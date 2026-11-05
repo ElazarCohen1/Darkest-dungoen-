@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 void afficherPerso(Perso perso){
     printf("%-3d | %-12s | %-16s | %-3d | %-3d | %4d/ %-4d | %-4d | %-3d | %-6d |\n",
        perso.num,        
