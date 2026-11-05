@@ -6,6 +6,9 @@
 
 #define LEN_ROLL 41
 #define LEN_NOM_ACC 50
+
+
+
 #define WINDOW_WIDTH 1000
 #define WINDOW_HEIGHT 700
 #define RECTANGLE_PERSO_W 150
